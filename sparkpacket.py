@@ -18,7 +18,7 @@ from watchdog.observers import Observer
 # =========================================================
 
 
-BASE_DIR = "/Users/Shared/secret"
+BASE_DIR = "/Users/shared/secret"
 SYNC_DIR = os.path.join(BASE_DIR, "sparkpacket")
 PORT = 8765
 
