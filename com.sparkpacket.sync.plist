@@ -10,7 +10,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/Users/Shared/secret/sparkpacket.py</string>
+        <string>/Users/shared/secret/sparkpacket.py</string>
     </array>
 
 
